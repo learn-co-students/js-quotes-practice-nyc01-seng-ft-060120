@@ -1,29 +1,22 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
-    },
-    {
-      "id": 2,
-      "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
-      "author": "Hannah Gadsby"
-    },
-    {
       "id": 3,
       "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
-      "author": "Alok Vaid Menon"
+      "author": "Alok Vaid Menon",
+      "likes": 5
     },
     {
       "id": 4,
       "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
-      "author": "Eleanor Roosevelt"
+      "author": "Eleanor Roosevelt",
+      "likes": 3
     },
     {
       "id": 5,
       "quote": "We had better not enjoy the moment, but create the moment.",
-      "author": "Ai Weiwei"
+      "author": "Ai Weiwei",
+      "likes": 1
     },
     {
       "id": 6,
@@ -48,20 +41,23 @@
     {
       "id": 10,
       "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-      "author": "Sonia Sotomayor"
+      "author": "Sonia Sotomayor",
+      "likes": 5
     },
     {
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
+      "author": "Ann Richards",
+      "likes": 5
+    },
+    {
+      "quote": "Learn. Love. Code",
+      "author": "Flatiron School",
+      "id": 12,
+      "likes": 5
     }
   ],
   "likes": [
-    {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
-    },
     {
       "quoteId": 10,
       "id": 2,
