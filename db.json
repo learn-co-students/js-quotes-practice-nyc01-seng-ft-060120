@@ -54,6 +54,11 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "If you're not frame perfect 99 times out of 100, then you're not good enough.",
+      "author": "Mew2King",
+      "id": 12
     }
   ],
   "likes": [
@@ -66,6 +71,36 @@
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quoteId": 12,
+      "createdAt": 1595458681654,
+      "id": 3
+    },
+    {
+      "quoteId": 12,
+      "createdAt": 1595458691790,
+      "id": 4
+    },
+    {
+      "quoteId": 12,
+      "createdAt": 1595458695457,
+      "id": 5
+    },
+    {
+      "quoteId": 12,
+      "createdAt": 1595458695640,
+      "id": 6
+    },
+    {
+      "quoteId": 12,
+      "createdAt": 1595458695805,
+      "id": 7
+    },
+    {
+      "quoteId": 12,
+      "createdAt": 1595458720321,
+      "id": 8
     }
   ]
 }
