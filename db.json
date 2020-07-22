@@ -1,26 +1,6 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
-    },
-    {
-      "id": 2,
-      "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
-      "author": "Hannah Gadsby"
-    },
-    {
-      "id": 3,
-      "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
-      "author": "Alok Vaid Menon"
-    },
-    {
-      "id": 4,
-      "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
-      "author": "Eleanor Roosevelt"
-    },
-    {
       "id": 5,
       "quote": "We had better not enjoy the moment, but create the moment.",
       "author": "Ai Weiwei"
@@ -54,18 +34,139 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "quote": "Listen to everything you hear, let time flow behind your ears",
+      "author": "Andy Agus",
+      "id": 14
+    },
+    {
+      "quote": "Just because you wait, doesn't mean it will happen",
+      "author": "Andy Agus",
+      "id": 15
+    },
+    {
+      "quote": "Depending on the situation you may in fact have a shot",
+      "author": "Andy Agus",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "quote": "Eating nothing for lunch might be a bad idea",
+      "author": "Andy Agus",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "quote": "Don't even bother trying too hard, it doesn't do much except make you tired, and wish that things went your way",
+      "author": "Andy Agus",
+      "likes": [],
+      "id": 18
+    },
+    {
+      "quote": "",
+      "author": "",
+      "likes": [],
+      "id": 19
+    },
+    {
+      "quote": "",
+      "author": "",
+      "likes": [],
+      "id": 20
     }
   ],
   "likes": [
     {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
-    },
-    {
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quoteId": 5,
+      "id": 5
+    },
+    {
+      "quoteId": 6,
+      "id": 6
+    },
+    {
+      "quoteId": 12,
+      "id": 7
+    },
+    {
+      "quoteId": 5,
+      "id": 14
+    },
+    {
+      "quoteId": 5,
+      "id": 15
+    },
+    {
+      "quoteId": 5,
+      "id": 16
+    },
+    {
+      "quoteId": 5,
+      "id": 17
+    },
+    {
+      "quoteId": 5,
+      "id": 18
+    },
+    {
+      "quoteId": 6,
+      "id": 19
+    },
+    {
+      "quoteId": 5,
+      "id": 20
+    },
+    {
+      "quoteId": 5,
+      "id": 21
+    },
+    {
+      "quoteId": 5,
+      "id": 22
+    },
+    {
+      "quoteId": 5,
+      "id": 23
+    },
+    {
+      "quoteId": 5,
+      "id": 24
+    },
+    {
+      "quoteId": 5,
+      "id": 25
+    },
+    {
+      "quoteId": 5,
+      "id": 26
+    },
+    {
+      "quoteId": 5,
+      "id": 27
+    },
+    {
+      "quoteId": 5,
+      "id": 28
+    },
+    {
+      "quoteId": 5,
+      "id": 29
+    },
+    {
+      "quoteId": 5,
+      "id": 30
     }
   ]
 }
